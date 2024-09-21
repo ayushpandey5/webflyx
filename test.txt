@@ -1,2 +1,4 @@
 Hello 
-Edit from github rebase pull
+Edit from github
+rebase -- pulls without merging to make commit linear
+merge -- keeps all commit history
